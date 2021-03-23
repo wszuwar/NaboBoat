@@ -1,0 +1,15 @@
+F:\gitchub\NaboBoat\NaboBoat\NaboBoat.DataAcces\bin\Debug\net5.0\NaboBoat.DataAcces.deps.json
+F:\gitchub\NaboBoat\NaboBoat\NaboBoat.DataAcces\bin\Debug\net5.0\NaboBoat.DataAcces.dll
+F:\gitchub\NaboBoat\NaboBoat\NaboBoat.DataAcces\bin\Debug\net5.0\ref\NaboBoat.DataAcces.dll
+F:\gitchub\NaboBoat\NaboBoat\NaboBoat.DataAcces\bin\Debug\net5.0\NaboBoat.DataAcces.pdb
+F:\gitchub\NaboBoat\NaboBoat\NaboBoat.DataAcces\obj\Debug\net5.0\NaboBoat.DataAcces.csprojAssemblyReference.cache
+F:\gitchub\NaboBoat\NaboBoat\NaboBoat.DataAcces\obj\Debug\net5.0\NaboBoat.DataAcces.GeneratedMSBuildEditorConfig.editorconfig
+F:\gitchub\NaboBoat\NaboBoat\NaboBoat.DataAcces\obj\Debug\net5.0\NaboBoat.DataAcces.AssemblyInfoInputs.cache
+F:\gitchub\NaboBoat\NaboBoat\NaboBoat.DataAcces\obj\Debug\net5.0\NaboBoat.DataAcces.AssemblyInfo.cs
+F:\gitchub\NaboBoat\NaboBoat\NaboBoat.DataAcces\obj\Debug\net5.0\NaboBoat.DataAcces.csproj.CoreCompileInputs.cache
+F:\gitchub\NaboBoat\NaboBoat\NaboBoat.DataAcces\obj\Debug\net5.0\NaboBoat.DataAcces.dll
+F:\gitchub\NaboBoat\NaboBoat\NaboBoat.DataAcces\obj\Debug\net5.0\ref\NaboBoat.DataAcces.dll
+F:\gitchub\NaboBoat\NaboBoat\NaboBoat.DataAcces\obj\Debug\net5.0\NaboBoat.DataAcces.pdb
+F:\gitchub\NaboBoat\NaboBoat\NaboBoat.DataAcces\bin\Debug\net5.0\NaboBoat.DataAcces.runtimeconfig.json
+F:\gitchub\NaboBoat\NaboBoat\NaboBoat.DataAcces\bin\Debug\net5.0\NaboBoat.DataAcces.runtimeconfig.dev.json
+F:\gitchub\NaboBoat\NaboBoat\NaboBoat.DataAcces\obj\Debug\net5.0\NaboBoat.DataAcces.genruntimeconfig.cache

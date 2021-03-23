@@ -4,14 +4,14 @@
     "F:\\gitchub\\NaboBoat\\NaboBoat\\NaboBoat\\NaboBoat.csproj": {}
   },
   "projects": {
-    "F:\\gitchub\\NaboBoat\\NaboBoat\\NaboBoat\\NaboBoat.csproj": {
+    "F:\\gitchub\\NaboBoat\\NaboBoat\\NaboBoat.DataAcces\\NaboBoat.DataAcces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\gitchub\\NaboBoat\\NaboBoat\\NaboBoat\\NaboBoat.csproj",
-        "projectName": "NaboBoat",
-        "projectPath": "F:\\gitchub\\NaboBoat\\NaboBoat\\NaboBoat\\NaboBoat.csproj",
+        "projectUniqueName": "F:\\gitchub\\NaboBoat\\NaboBoat\\NaboBoat.DataAcces\\NaboBoat.DataAcces.csproj",
+        "projectName": "NaboBoat.DataAcces",
+        "projectPath": "F:\\gitchub\\NaboBoat\\NaboBoat\\NaboBoat.DataAcces\\NaboBoat.DataAcces.csproj",
         "packagesPath": "C:\\Users\\Marek\\.nuget\\packages\\",
-        "outputPath": "F:\\gitchub\\NaboBoat\\NaboBoat\\NaboBoat\\obj\\",
+        "outputPath": "F:\\gitchub\\NaboBoat\\NaboBoat\\NaboBoat.DataAcces\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -44,6 +44,90 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\gitchub\\NaboBoat\\NaboBoat\\NaboBoat\\NaboBoat.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\gitchub\\NaboBoat\\NaboBoat\\NaboBoat\\NaboBoat.csproj",
+        "projectName": "NaboBoat",
+        "projectPath": "F:\\gitchub\\NaboBoat\\NaboBoat\\NaboBoat\\NaboBoat.csproj",
+        "packagesPath": "C:\\Users\\Marek\\.nuget\\packages\\",
+        "outputPath": "F:\\gitchub\\NaboBoat\\NaboBoat\\NaboBoat\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Marek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "F:\\gitchub\\NaboBoat\\NaboBoat\\NaboBoat.DataAcces\\NaboBoat.DataAcces.csproj": {
+                "projectPath": "F:\\gitchub\\NaboBoat\\NaboBoat\\NaboBoat.DataAcces\\NaboBoat.DataAcces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
               "version": "[5.0.1, )",
@@ -57,6 +141,26 @@
               "noWarn": [
                 "NU1605"
               ]
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.4, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
